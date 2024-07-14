@@ -37,6 +37,10 @@ To get started with this project, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
+3. **Launch Application**:
+    ```bash
+    streamlit run "Image Search.py"
+    ```
 
 ## Usage
 
