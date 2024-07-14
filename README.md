@@ -21,8 +21,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/multi-function-chat-bot.git
-    cd multi-function-chat-bot
+    git clone [https://github.com/yourusername/multi-function-chat-bot.git](https://github.com/Dhruvadityamittal/Multi-Functional-Chat-Bot.git)
+    cd Multi-Functioanal-Chat-Bot
     ```
 
 2. **Set up the environment**:
@@ -67,10 +67,8 @@ This functionality allows users to input a YouTube video link and receive a desc
 ## Technologies Used
 
 - **Python**: Main programming language.
-- **Flask**: Web framework for building the application.
-- **OpenAI GPT-4**: Model for generating text descriptions and chatbot responses.
-- **YouTube API**: For fetching video details.
-- **HTML/CSS/JavaScript**: For the front-end interface.
+- **Streamlit**: Web framework for building the application.
+- **Google Gemini**: Model for generating text descriptions and chatbot responses.
 
 ## Contributing
 
@@ -81,7 +79,3 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
